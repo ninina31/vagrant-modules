@@ -40,3 +40,9 @@
 [submodule "modules/yum"]
 	path = modules/yum
 	url = https://github.com/example42/puppet-yum
+[submodule "modules/install"]
+	path = modules/install
+	url = https://github.com/ninina31/tfm-install
+[submodule "modules/init_mysql"]
+	path = modules/init_mysql
+	url = https://github.com/ninina31/tfm-init_mysql
