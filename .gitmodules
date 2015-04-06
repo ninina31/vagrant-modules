@@ -46,3 +46,6 @@
 [submodule "modules/init_mysql"]
 	path = modules/init_mysql
 	url = https://github.com/ninina31/tfm-init_mysql
+[submodule "shared/www"]
+	path = shared/www
+	url = https://github.com/ninina31/portal-examenes
